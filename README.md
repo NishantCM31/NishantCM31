@@ -1,4 +1,5 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Nishant</h1>
 Enthusiastic M.Sc Computer Application student and future software developer, dedicated to pioneering creative solutions in technology.
 <br>
 🔭 I’m currently working on PlacementPro: Streamlining Student Placement Activities<br>🌱 I’m currently learning MERN stack, React JS, JAVA<br>
