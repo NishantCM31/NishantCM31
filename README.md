@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant</h1>
-Enthusiastic M.Sc Computer Application student and future software developer, dedicated to pioneering creative solutions in technology.
-<br>
-🔭 I’m currently working on PlacementPro: Streamlining Student Placement Activities<br>🌱 I’m currently learning MERN stack, React JS, JAVA<br>
-
+Enthusiastic M.Sc Computer Applications graduate and aspiring software developer, dedicated to creating innovative and efficient solutions in technology.<br>🔭 Worked on PlacementPro: Streamlining Student Placement Activities<br>🌱 Continuously learning MERN stack, React JS, JAVA, Git, and problem-solving techniques
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nishant_madke_31) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-madke-38806821b) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MadkeNishant) 
